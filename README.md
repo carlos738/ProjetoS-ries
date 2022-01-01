@@ -1,2 +1,1 @@
-# ProjetoS-ries
-Projeto Séries em linguagem C#
+projeto Dio Séries APP usando .Net e C#
